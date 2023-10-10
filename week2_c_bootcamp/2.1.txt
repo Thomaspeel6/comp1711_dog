@@ -14,5 +14,7 @@ use % as a way of telling computer to lookat the integer
 %u 
 
 scanf doesnt want to know the variable just wants to know where it is stored. the pointer 
-
+for scanning a string %s
+double- means real number instead of int
+and %f and not %d
 
