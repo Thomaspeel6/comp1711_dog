@@ -1,0 +1,18 @@
+gcc, is used to compile the code. 
+gcc 'name of file' -o "file_name"
+
+
+to run it:
+./"file_name"
+
+use # to find libraries for teh code, for example for printf use 
+#include<stdio.h>
+
+
+use % as a way of telling computer to lookat the integer
+%d 
+%u 
+
+scanf doesnt want to know the variable just wants to know where it is stored. the pointer 
+
+
