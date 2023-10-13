@@ -3,7 +3,7 @@
 int main(){
     int a;
 
-    for (a=10; a > 5; a--){
+    for (a=10; a > 5; a-=2){
         printf("a is equal to %d\n", a);
 
     }

@@ -1,3 +1,5 @@
 loops used for automating process. 
 
+array, a varibale that can hole more than one value(elements)
+square brackets
 
