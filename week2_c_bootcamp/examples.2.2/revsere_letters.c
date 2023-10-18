@@ -12,7 +12,7 @@ int main(){
        if (str[i] ==  '\0'){
         printf('//0');
        }
-       e {
+       else {
             printf("%c ", str[i]);
         }
     }
