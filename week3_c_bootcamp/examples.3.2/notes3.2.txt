@@ -1,0 +1,6 @@
+functions
+- break up code into chunks
+- better for debugging
+- organations.
+
+
