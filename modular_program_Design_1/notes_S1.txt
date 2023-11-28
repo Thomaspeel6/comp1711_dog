@@ -1,0 +1,5 @@
+bad code~:
+- full of repetion 
+- hard to read 
+- long 
+- badly documented
